@@ -1,12 +1,12 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Sarath</h1>
+<h1 align="left">👋 Hi, I'm Sarath</h1>
 
-<p align="center">
+<p align="left">
   <em>Software Engineer · Maker · Lifelong Learner</em>
 </p>
 
 <!-- Badges -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/jrsarath">
     <img src="https://img.shields.io/github/followers/jrsarath?label=Followers&style=social" alt="GitHub Followers" />
   </a>
@@ -51,15 +51,15 @@
 <!-- GitHub Stats -->
 ### 📈 My GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jrsarath&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrsarath&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrsarath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
