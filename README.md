@@ -69,7 +69,7 @@
 ### 📫 How to Reach Me
 
 <p>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:jrsarath@outlook.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/jrsarath">
@@ -77,4 +77,7 @@
   </a>
 </p>
 
-> “Code is a tool to build, share, and inspire.”
+---
+"Code is a tool to build, share, and inspire."
+
+From Kolkata with ❤️
