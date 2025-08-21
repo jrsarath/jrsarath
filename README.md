@@ -51,17 +51,18 @@
 <!-- GitHub Stats -->
 ### 📈 My GitHub Stats
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrsarath&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<a href="https://github.com/jrsarath" target="_blank">
+  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=jrsarath&show_icons=true&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/jrsarath" target="_blank">
+  <img align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=jrsarath&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Streak" />
+</a>
 
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrsarath&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<a href="https://github.com/jrsarath" target="_blank">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrsarath&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top Languages" />
+</a>
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrsarath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+
 
 ---
 
