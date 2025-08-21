@@ -13,7 +13,7 @@
   <a href="https://github.com/jrsarath?tab=repositories">
     <img src="https://img.shields.io/badge/Code-Explore-blue?logo=github" alt="Repositories" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:jrsarath@outlook.com">
     <img src="https://img.shields.io/badge/Contact-Email-informational?logo=gmail" alt="Email" />
   </a>
 </p>
