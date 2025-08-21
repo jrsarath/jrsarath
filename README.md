@@ -52,15 +52,15 @@
 ### 📈 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jrsarath&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrsarath&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrsarath&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jrsarath&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrsarath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrsarath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
