@@ -1,84 +1,76 @@
-<!-- Profile Header -->
-<h1 align="left">👋 Hi, I'm Sarath</h1>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hey, I'm Sarath
+![Header](./your-header-image-name.png)
 
-<p align="left">
-  <em>Software Engineer · Maker · Lifelong Learner</em>
-</p>
+### Software Engineer • Embedded Systems • IoT • AI • Open Source
 
-<!-- Badges -->
-<p align="left">
-  <a href="https://github.com/jrsarath">
-    <img src="https://img.shields.io/github/followers/jrsarath?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/jrsarath?tab=repositories">
-    <img src="https://img.shields.io/badge/Code-Explore-blue?logo=github" alt="Repositories" />
-  </a>
-  <a href="mailto:jrsarath@outlook.com">
-    <img src="https://img.shields.io/badge/Contact-Email-informational?logo=gmail" alt="Email" />
-  </a>
-</p>
+> Building hardware that talks to software.
 
 ---
 
-<!-- About Me -->
-### 🛠 About Me
+## 🚀 About Me
 
-- 🔭 I’m working on **full-stack projects**, **IoT devices**, and **cloud-native apps**
-- 🌱 I’m learning **AI-assisted workflows**, **blockchain integrations**, and **serverless architectures**
-- 💡 I love **open source, rapid prototyping**, and building tools that make life easier
-- ⚡ Fun Fact: I’m probably experimenting with something new right now!
+I'm a software engineer from **Kolkata, India**, passionate about building products where hardware and software come together.
 
----
+My interests span embedded systems, IoT, AI, cloud-native applications, and custom electronics. I enjoy taking ideas from concept to production, designing PCBs, writing firmware, building scalable backend services, and creating modern web applications.
 
-<!-- Skills -->
-### ⚙️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" />
-  <img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go" />
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" />
-</p>
+Outside of coding, you'll usually find me designing electronics, experimenting with self-hosted infrastructure, prototyping with 3D printers, exploring new roads on two wheels, or contributing to open-source projects. Riding is one of my biggest passions and my favorite way to unwind.
 
 ---
 
-<!-- GitHub Stats -->
-### 📈 My GitHub Stats
+## 💻 Tech Stack
 
-<a href="https://github.com/jrsarath" target="_blank">
-  <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=jrsarath&show_icons=true&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/jrsarath" target="_blank">
-  <img align="center" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=jrsarath&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Streak" />
-</a>
-
-<a href="https://github.com/jrsarath" target="_blank">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrsarath&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top Languages" />
-</a>
-
-
-
----
-
-<!-- Connect -->
-### 📫 How to Reach Me
+### Languages
 
 <p>
-  <a href="mailto:jrsarath@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,python,java,php,dart" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,postgres,redis" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,terraform,linux,nginx,githubactions" />
+</p>
+
+### Embedded & Hardware
+
+* ESP32 • ESP-IDF • ESP-Matter • Raspberry Pi Pico • FreeRTOS
+* MQTT • Home Assistant • LVGL
+* PCB Design • Fusion 360 • 3D Printing
+
+---
+
+## 📫 Connect
+
+<p>
   <a href="https://github.com/jrsarath">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jrsarath">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:jrsarath@outlook.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
-"Code is a tool to build, share, and inspire."
 
-From Kolkata with ❤️
+<p align="left">
+  <i>"Build. Break. Learn. Repeat."</i>
+  <br />
+  Made with ❤️ in Kolkata, India 🇮🇳
+</p>
