@@ -1,5 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hey, I'm Sarath
-![Header](./your-header-image-name.png)
+![Header](./github-header-banner.png)
 
 ### Software Engineer • Embedded Systems • IoT • AI • Open Source
 
